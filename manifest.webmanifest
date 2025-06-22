@@ -1,6 +1,6 @@
 {
-  "name": "MeuPwaEmCsharp",
-  "short_name": "MeuPwaEmCsharp",
+  "name": "PwaAppIFMS",
+  "short_name": "PwaAppIFMS",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
